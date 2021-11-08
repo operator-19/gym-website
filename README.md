@@ -1,5 +1,5 @@
 # gym-website
-Gym Website I made made with Javascript!
+Gym Website with smooth animations I made made with Javascript!
 
 Web and Mobile responsive with Hamburger menu animation.
 
